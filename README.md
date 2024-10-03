@@ -2,7 +2,7 @@
 
  `GIS`.**
 
-# School Locations
+# Project: School Locations
 
 ![screenshot](img/prim_plot.png)
 
