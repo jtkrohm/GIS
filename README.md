@@ -1,6 +1,6 @@
-**This GitHub repository (<https://github.com/Genymobile/scrcpy>) is the source code for all my GIS analyses.
+**This GitHub repository (<https://github.com/Genymobile/scrcpy>) is the source code for all my GIS analyses.**
 
- `GIS`.**
+ `GIS`.
 
 # Project: School Locations
 
